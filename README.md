@@ -8,7 +8,7 @@ pa2 - Machine Learning with C. Includes a program that predicts house prices bas
 
 pa3 - Bit Manipulation. Includes multiple programs using bit operations. 
 
-pa4 - NOT UPLOADED. Bomb Lab that required us to analyze multiple 'stages' of x86 Assembly code to diffuse bombs at each stage. 
+pa4 - NOT UPLOADED. Bomb Lab that required us to analyze multiple 'stages' of x86 Assembly code to diffuse bombs at each stage. No code required, just analysis. 
 
 pa5 - Assembly Interpreter. Includes a program that interprets x86 assembly code. 
 
